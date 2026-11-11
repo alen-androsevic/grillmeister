@@ -1,0 +1,9 @@
+{
+  "name": "grillmeister",
+  "description": "Grills a Claude Code skill draft: finds every gap a cold run would trip over and asks you about each one, one multiple-choice question at a time, then fixes the draft",
+  "author": { "name": "Alen Androsevic", "url": "https://github.com/alen-androsevic" },
+  "homepage": "https://github.com/alen-androsevic/grillmeister",
+  "repository": "https://github.com/alen-androsevic/grillmeister",
+  "license": "MIT-0",
+  "keywords": ["skills", "review", "authoring"]
+}
